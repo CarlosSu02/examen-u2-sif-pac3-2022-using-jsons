@@ -1,0 +1,10 @@
+[
+    {
+        "id" : 1,
+        "word" : "Initial Game Preview",
+        "progress" : "----------",
+        "state" : "initial game preview",
+        "attempts" : 0,
+        "completed" : true
+    }
+]

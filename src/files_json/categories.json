@@ -1,0 +1,33 @@
+
+[
+    {
+        "id": 1,
+        "name": "frutas",
+        "description": "aqui se encuentran las frutas."
+    },
+    {
+        "id": 2,
+        "name": "objetos",
+        "description": "aqui se encuentran los objetos."
+    },
+    {
+        "id": 3,
+        "name": "verbos",
+        "description": "aqui se encuentran los verbos."
+    },
+    {
+        "id": 4,
+        "name": "paises",
+        "description": "aqui se encuentran los paises."
+    },
+    {
+        "id": 5,
+        "name": "animales",
+        "description": "aqui se encuentran los animales."
+    },
+    {
+        "id": 6,
+        "name": "colores",
+        "description": "aqui se encuentran los colores."
+    }
+]

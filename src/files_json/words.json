@@ -1,0 +1,188 @@
+
+[
+    {
+        "id": 1,
+        "name": "Bananos",
+        "categoryId": 1
+    },
+    {
+        "id": 2,
+        "name": "Fresa",
+        "categoryId": 1
+    },    
+    {
+        "id": 3,
+        "name": "Cereza",
+        "categoryId": 1
+    },    
+    {
+        "id": 4,
+        "name": "Piña",
+        "categoryId": 1
+    },    
+    {
+        "id": 5,
+        "name": "Mango",
+        "categoryId": 1
+    },    
+    {
+        "id": 6,
+        "name": "Sandia",
+        "categoryId": 1
+    },    
+    {
+        "id": 7,
+        "name": "Manzana",
+        "categoryId": 1
+    },
+    {
+        "id": 8,
+        "name": "Martillo",
+        "categoryId": 2
+    },
+    {
+        "id": 9,
+        "name": "Silla",
+        "categoryId": 2
+    },
+    {
+        "id": 10,
+        "name": "Sierra",
+        "categoryId": 2
+    },
+    {
+        "id": 11,
+        "name": "Vaso",
+        "categoryId": 2
+    },
+    {
+        "id": 12,
+        "name": "Destornillador",
+        "categoryId": 2
+    },
+    {
+        "id": 13,
+        "name": "Libro",
+        "categoryId": 2
+    },
+    {
+        "id": 14,
+        "name": "Comer",
+        "categoryId": 3
+    },
+    {
+        "id": 15,
+        "name": "Dormir",
+        "categoryId": 3
+    },
+    {
+        "id": 16,
+        "name": "Sentarse",
+        "categoryId": 3
+    },
+    {
+        "id": 17,
+        "name": "Caminar",
+        "categoryId": 3
+    },
+    {
+        "id": 18,
+        "name": "Saltar",
+        "categoryId": 3
+    },
+    {
+        "id": 19,
+        "name": "Escuchar",
+        "categoryId": 3
+    },
+    {
+        "id": 20,
+        "name": "Honduras",
+        "categoryId": 4
+    },
+    {
+        "id": 21,
+        "name": "Alemania",
+        "categoryId": 4
+    },
+    {
+        "id": 22,
+        "name": "Nicaragua",
+        "categoryId": 4
+    },
+    {
+        "id": 23,
+        "name": "España",
+        "categoryId": 4
+    },
+    {
+        "id": 24,
+        "name": "Dinamarca",
+        "categoryId": 4
+    },
+    {
+        "id": 25,
+        "name": "Leon",
+        "categoryId": 5
+    },
+    {
+        "id": 26,
+        "name": "Gato",
+        "categoryId": 5
+    },
+    {
+        "id": 27,
+        "name": "Oso",
+        "categoryId": 5
+    },
+    {
+        "id": 28,
+        "name": "Perro",
+        "categoryId": 5
+    },
+    {
+        "id": 29,
+        "name": "Serpiente",
+        "categoryId": 5
+    },
+    {
+        "id": 30,
+        "name": "Abeja",
+        "categoryId": 5
+    },
+    {
+        "id": 31,
+        "name": "Mariposa",
+        "categoryId": 5
+    },
+    {
+        "id": 32,
+        "name": "Azul",
+        "categoryId": 6
+    },
+    {
+        "id": 33,
+        "name": "Morado",
+        "categoryId": 6
+    },
+    {
+        "id": 34,
+        "name": "Celeste",
+        "categoryId": 6
+    },
+    {
+        "id": 35,
+        "name": "Amarillo",
+        "categoryId": 6
+    },
+    {
+        "id": 36,
+        "name": "Anaranjado",
+        "categoryId": 6
+    },
+    {
+        "id": 37,
+        "name": "Verde",
+        "categoryId": 6
+    }
+]
